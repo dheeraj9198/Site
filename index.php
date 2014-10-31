@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html>
 <head lang="en">
@@ -158,20 +161,6 @@
                 </tr>
                 </tbody>
             </table>
-
-
-            <br>
-            <br>
-            <h2>My Softwares</h2>
-            <ul>
-                <li>
-                    <p>Video Converter with latest audio video codecs <a href="http://github.com/dheeraj9198/DVideoConverter" target="_blank">source at github</a></p>
-                    <p><a href="https://www.dropbox.com/s/x3ek58wbeldvdej/DVideoConverter.exe?dl=0" target="_blank">DVideoConverter.exe</a></p>
-                </li>
-            </ul>
-
-
-
         </td>
     </tr>
     </tbody>
