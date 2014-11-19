@@ -135,7 +135,7 @@
             <a href="http://stackoverflow.com/users/3314058/dheeraj-sachan" target="_blank"><img src="images/stackoverflow.png"></a>
             <br>
             <br>
-            <a href="resources/resume.pdf" target="_blank">Resume</a>
+            <a href="resources/resume.pdf" target="_blank"><img src="images/resume-icon.png"></a>
 
             <h2>Contact</h2>
             <table>
